@@ -63,6 +63,8 @@ int main(int argc, char* argv[]){
     ///cout<<fixed<<setprecision(20);
     ll tc; cin>>tc;
     while(tc--){
+        ll n; cin>>n;
+        vi arr(n);
         
     }
 
